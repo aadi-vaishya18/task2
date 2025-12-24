@@ -7,22 +7,22 @@ This repository contains two frontend projects developed using HTML, CSS, and Ja
 ## 📁 Repository Structure
 
 task2/
-│
 ├── form/
-│ ├── index.html
-│ ├── styles.css
-│ └── script.js
+│   ├── index.html
+│   ├── styles.css
+│   └── script.js
 │
 ├── to-do/
-│ ├── index.html
-│ ├── styles.css
-│ ├── script.js
-│ └── assets/
-│ ├── icon.png
-│ ├── checked.png
-│ └── unchecked.png
+│   ├── index.html
+│   ├── styles.css
+│   ├── script.js
+│   └── assets/
+│       ├── icon.png
+│       ├── checked.png
+│       └── unchecked.png
 │
 └── README.md
+
 
 
 ---
